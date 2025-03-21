@@ -8,7 +8,12 @@ Based on [this gist](https://gist.github.com/AmreeshTyagi/013feb0a2b95fddf7361e5
 # install oh-my-zsh and powerlevel10k
 sudo chmod +x setup.sh
 ./setup.sh
+```
 
+Log out of the shell and log back in to see the changes.
+Now setup the p10k profile.
+
+```bash
 # setup the powerlevel10k configuration
 cp reference-p10k.zsh ~/.p10k.zsh
 p10k reload
