@@ -11,6 +11,7 @@ sudo chmod +x setup.sh
 ```
 
 Log out of the shell and log back in to see the changes.
+Better to do <CTRL+D> and then log back in because `zsh` shell might start in the middle of installation.
 Now setup the p10k profile.
 
 ```bash
