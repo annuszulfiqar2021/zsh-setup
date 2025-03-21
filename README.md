@@ -18,7 +18,7 @@ Now setup the p10k profile.
 
 ```bash
 # setup the powerlevel10k configuration
-cd <path/to/this/zsh/setup>
+cd /path/to/this/zsh/setup/
 cp reference-p10k.zsh ~/.p10k.zsh
 
 # add the p10k configuration to the zshrc
