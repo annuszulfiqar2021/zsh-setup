@@ -1,6 +1,7 @@
 # My Custom ZSH Setup
 
-Based on [this gist](https://gist.github.com/AmreeshTyagi/013feb0a2b95fddf7361e58a4d8ff128)
+Based on [this gist](https://gist.github.com/AmreeshTyagi/013feb0a2b95fddf7361e58a4d8ff128).
+Tested on both `Ubuntu 20.04 LTS` and `Mac`.
 
 ## Install
 
