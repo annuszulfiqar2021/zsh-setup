@@ -17,6 +17,10 @@ Now setup the p10k profile.
 # setup the powerlevel10k configuration
 cp reference-p10k.zsh ~/.p10k.zsh
 p10k reload
+
+# add the p10k configuration to the zshrc
+echo '[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh' >> ~/.zshrc
+source ~/.zshrc
 ```
 
 ## Uninstall
