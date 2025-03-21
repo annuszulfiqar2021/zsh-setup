@@ -2,7 +2,7 @@ OH_MY_ZSH_INSTALLER = https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/instal
 POWER_LEVEL_10K_GITHUB = https://github.com/romkatv/powerlevel10k.git
 
 oh-my-zsh:
-	sh -c "$(curl -fsSL $(OH_MY_ZSH_INSTALLER))"
+	sh -c "$(shell curl -fsSL $(OH_MY_ZSH_INSTALLER))"
 	@echo "Please restart your terminal to apply changes"
 
 power-level-10k:
