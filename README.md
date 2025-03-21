@@ -14,7 +14,7 @@ Log out of the shell and log back in to see the changes.
 Better to do <CTRL+D> and then log back in because `zsh` shell might start in the middle of installation.
 Now setup the p10k profile.
 
-> Note: you might directly be taken into a terminal session to setup a new profile. Just type `q' to exit the setup and then follow the steps below.
+> Note: you might directly be taken into a terminal session to setup a new profile. Just type 'q' to exit the setup and then follow the steps below.
 
 ```bash
 # setup the powerlevel10k configuration
