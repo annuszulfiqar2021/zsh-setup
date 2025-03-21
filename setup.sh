@@ -22,7 +22,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 # Use agnoster theme
 # https://github.com/ohmyzsh/ohmyzsh/wiki/Themes#agnoster
 # Edit ZSH_THEME
-sed  -i 's/ZSH_THEME="robbyrussell"/ZSH_THEME="agnoster"/g' ~/.zshrc
+sed -i 's/ZSH_THEME="robbyrussell"/ZSH_THEME="agnoster"/g' ~/.zshrc
 
 # Install powerline font
 sudo apt-get install fonts-powerline -y
